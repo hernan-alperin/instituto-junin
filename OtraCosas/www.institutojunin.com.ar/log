@@ -1,0 +1,1280 @@
+--2015-02-08 11:22:56--  http://www.institutojunin.com.ar/
+Resolving www.institutojunin.com.ar (www.institutojunin.com.ar)... 66.219.25.200
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: public_html [following]
+--2015-02-08 11:22:57--  http://www.institutojunin.com.ar/public_html
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.institutojunin.com.ar/public%5Fhtml/ [following]
+--2015-02-08 11:22:57--  http://www.institutojunin.com.ar/public%5Fhtml/
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 303 Undescribed
+Location: ?m=Publico&a=verHome [following]
+--2015-02-08 11:22:57--  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=verHome
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2015-02-08 11:22:58--  (try: 2)  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=verHome
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/index.html’
+
+     0K .......... .......... .........                         347K=0.08s
+
+2015-02-08 11:22:58 (347 KB/s) - ‘www.institutojunin.com.ar/index.html’ saved [29966]
+
+Loading robots.txt; please ignore errors.
+--2015-02-08 11:22:58--  http://www.institutojunin.com.ar/robots.txt
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2015-02-08 11:22:58 ERROR 404: Not Found.
+
+--2015-02-08 11:22:58--  http://www.institutojunin.com.ar/public%5Fhtml/img/favicon.ico
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 404 Not Found
+2015-02-08 11:22:58 ERROR 404: Not Found.
+
+--2015-02-08 11:22:58--  http://www.institutojunin.com.ar/public%5Fhtml/zulky/lib/jquery/jquery-1.8.1.min.js
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 92793 (91K) [application/x-javascript]
+Saving to: ‘www.institutojunin.com.ar/public_html/zulky/lib/jquery/jquery-1.8.1.min.js’
+
+     0K .......... .......... .......... .......... .......... 55%  378K 0s
+    50K .......... .......... .......... ..........           100%  804K=0.2s
+
+2015-02-08 11:22:59 (496 KB/s) - ‘www.institutojunin.com.ar/public_html/zulky/lib/jquery/jquery-1.8.1.min.js’ saved [92793/92793]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/zulky/lib/bootstrap/js/bootstrap-transition.js
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1861 (1.8K) [application/x-javascript]
+Saving to: ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-transition.js’
+
+     0K .                                                     100%  130M=0s
+
+2015-02-08 11:22:59 (130 MB/s) - ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-transition.js’ saved [1861/1861]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/zulky/lib/bootstrap/js/bootstrap-alert.js
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2481 (2.4K) [application/x-javascript]
+Saving to: ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-alert.js’
+
+     0K ..                                                    100%  179M=0s
+
+2015-02-08 11:22:59 (179 MB/s) - ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-alert.js’ saved [2481/2481]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/zulky/lib/bootstrap/js/bootstrap-modal.js
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5894 (5.8K) [application/x-javascript]
+Saving to: ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-modal.js’
+
+     0K .....                                                 100%  267M=0s
+
+2015-02-08 11:22:59 (267 MB/s) - ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-modal.js’ saved [5894/5894]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/zulky/lib/bootstrap/js/bootstrap-dropdown.js
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2827 (2.8K) [application/x-javascript]
+Saving to: ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-dropdown.js’
+
+     0K ..                                                    100%  207M=0s
+
+2015-02-08 11:22:59 (207 MB/s) - ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-dropdown.js’ saved [2827/2827]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/zulky/lib/bootstrap/js/bootstrap-tab.js
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3518 (3.4K) [application/x-javascript]
+Saving to: ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-tab.js’
+
+     0K ...                                                   100%  153M=0s
+
+2015-02-08 11:22:59 (153 MB/s) - ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-tab.js’ saved [3518/3518]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/zulky/lib/bootstrap/js/bootstrap-tooltip.js
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7929 (7.7K) [application/x-javascript]
+Saving to: ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-tooltip.js’
+
+     0K .......                                               100%  489M=0s
+
+2015-02-08 11:22:59 (489 MB/s) - ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-tooltip.js’ saved [7929/7929]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/zulky/lib/bootstrap/js/bootstrap-popover.js
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2971 (2.9K) [application/x-javascript]
+Saving to: ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-popover.js’
+
+     0K ..                                                    100%  223M=0s
+
+2015-02-08 11:22:59 (223 MB/s) - ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-popover.js’ saved [2971/2971]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/zulky/lib/bootstrap/js/bootstrap-button.js
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2808 (2.7K) [application/x-javascript]
+Saving to: ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-button.js’
+
+     0K ..                                                    100%  200M=0s
+
+2015-02-08 11:22:59 (200 MB/s) - ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-button.js’ saved [2808/2808]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/zulky/lib/bootstrap/js/bootstrap-collapse.js
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4554 (4.4K) [application/x-javascript]
+Saving to: ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-collapse.js’
+
+     0K ....                                                  100%  328M=0s
+
+2015-02-08 11:22:59 (328 MB/s) - ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-collapse.js’ saved [4554/4554]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/zulky/lib/bootstrap/js/bootstrap-carousel.js
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5186 (5.1K) [application/x-javascript]
+Saving to: ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-carousel.js’
+
+     0K .....                                                 100%  302M=0s
+
+2015-02-08 11:22:59 (302 MB/s) - ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-carousel.js’ saved [5186/5186]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/zulky/lib/bootstrap/js/bootstrap-typeahead.js
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7358 (7.2K) [application/x-javascript]
+Saving to: ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-typeahead.js’
+
+     0K .......                                               100%  102M=0s
+
+2015-02-08 11:22:59 (102 MB/s) - ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/js/bootstrap-typeahead.js’ saved [7358/7358]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public_html/zulky/js/zulky_jquery.js
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12878 (13K) [application/x-javascript]
+Saving to: ‘www.institutojunin.com.ar/public_html/zulky/js/zulky_jquery.js’
+
+     0K .......... ..                                         100% 63.5M=0s
+
+2015-02-08 11:22:59 (63.5 MB/s) - ‘www.institutojunin.com.ar/public_html/zulky/js/zulky_jquery.js’ saved [12878/12878]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/js/script.js
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 349 [application/x-javascript]
+Saving to: ‘www.institutojunin.com.ar/public_html/js/script.js’
+
+     0K                                                       100% 20.2M=0s
+
+2015-02-08 11:22:59 (20.2 MB/s) - ‘www.institutojunin.com.ar/public_html/js/script.js’ saved [349/349]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/css/bootstrap.min.css
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 95592 (93K) [text/css]
+Saving to: ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/css/bootstrap.min.css’
+
+     0K .......... .......... .......... .......... .......... 53% 1.83M 0s
+    50K .......... .......... .......... .......... ...       100% 1.66M=0.05s
+
+2015-02-08 11:22:59 (1.75 MB/s) - ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/css/bootstrap.min.css’ saved [95592/95592]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/fonts/vagrounded-thin.eot
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 26304 (26K) [application/octet-stream]
+Saving to: ‘www.institutojunin.com.ar/public_html/fonts/vagrounded-thin.eot’
+
+     0K .......... .......... .....                           100%  111M=0s
+
+2015-02-08 11:22:59 (111 MB/s) - ‘www.institutojunin.com.ar/public_html/fonts/vagrounded-thin.eot’ saved [26304/26304]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/fonts/vagrounded-thin.eot?
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 26304 (26K) [application/octet-stream]
+Saving to: ‘www.institutojunin.com.ar/public_html/fonts/vagrounded-thin.eot?’
+
+     0K .......... .......... .....                           100% 64.7M=0s
+
+2015-02-08 11:22:59 (64.7 MB/s) - ‘www.institutojunin.com.ar/public_html/fonts/vagrounded-thin.eot?’ saved [26304/26304]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/fonts/vagrounded-thin.woff
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 29624 (29K) [application/octet-stream]
+Saving to: ‘www.institutojunin.com.ar/public_html/fonts/vagrounded-thin.woff’
+
+     0K .......... .......... ........                        100% 42.7M=0.001s
+
+2015-02-08 11:22:59 (42.7 MB/s) - ‘www.institutojunin.com.ar/public_html/fonts/vagrounded-thin.woff’ saved [29624/29624]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/fonts/vagrounded-thin.ttf
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 49996 (49K) [application/octet-stream]
+Saving to: ‘www.institutojunin.com.ar/public_html/fonts/vagrounded-thin.ttf’
+
+     0K .......... .......... .......... .......... ........  100%  121M=0s
+
+2015-02-08 11:22:59 (121 MB/s) - ‘www.institutojunin.com.ar/public_html/fonts/vagrounded-thin.ttf’ saved [49996/49996]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/fonts/vagrounded-thin.svg
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 69602 (68K) [application/octet-stream]
+Saving to: ‘www.institutojunin.com.ar/public_html/fonts/vagrounded-thin.svg’
+
+     0K .......... .......... .......... .......... .......... 73% 76.4M 0s
+    50K .......... .......                                    100%  207M=0.001s
+
+2015-02-08 11:22:59 (91.7 MB/s) - ‘www.institutojunin.com.ar/public_html/fonts/vagrounded-thin.svg’ saved [69602/69602]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/fonts/vagrounded-bold.eot
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 50768 (50K) [application/octet-stream]
+Saving to: ‘www.institutojunin.com.ar/public_html/fonts/vagrounded-bold.eot’
+
+     0K .......... .......... .......... .......... ......... 100%  107M=0s
+
+2015-02-08 11:22:59 (107 MB/s) - ‘www.institutojunin.com.ar/public_html/fonts/vagrounded-bold.eot’ saved [50768/50768]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/fonts/vagrounded-bold.eot?
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 50768 (50K) [application/octet-stream]
+Saving to: ‘www.institutojunin.com.ar/public_html/fonts/vagrounded-bold.eot?’
+
+     0K .......... .......... .......... .......... ......... 100%  134M=0s
+
+2015-02-08 11:22:59 (134 MB/s) - ‘www.institutojunin.com.ar/public_html/fonts/vagrounded-bold.eot?’ saved [50768/50768]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/fonts/vagrounded-bold.woff
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 29340 (29K) [application/octet-stream]
+Saving to: ‘www.institutojunin.com.ar/public_html/fonts/vagrounded-bold.woff’
+
+     0K .......... .......... ........                        100% 70.2M=0s
+
+2015-02-08 11:22:59 (70.2 MB/s) - ‘www.institutojunin.com.ar/public_html/fonts/vagrounded-bold.woff’ saved [29340/29340]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/fonts/vagrounded-bold.ttf
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 50592 (49K) [application/octet-stream]
+Saving to: ‘www.institutojunin.com.ar/public_html/fonts/vagrounded-bold.ttf’
+
+     0K .......... .......... .......... .......... ......... 100%  104M=0s
+
+2015-02-08 11:22:59 (104 MB/s) - ‘www.institutojunin.com.ar/public_html/fonts/vagrounded-bold.ttf’ saved [50592/50592]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/fonts/vagrounded-bold.svg
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 82746 (81K) [application/octet-stream]
+Saving to: ‘www.institutojunin.com.ar/public_html/fonts/vagrounded-bold.svg’
+
+     0K .......... .......... .......... .......... .......... 61% 64.8M 0s
+    50K .......... .......... ..........                      100%  151M=0.001s
+
+2015-02-08 11:22:59 (82.9 MB/s) - ‘www.institutojunin.com.ar/public_html/fonts/vagrounded-bold.svg’ saved [82746/82746]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/image/fondo-paso-1.gif
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1124 (1.1K) [image/gif]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/fondo-paso-1.gif’
+
+     0K .                                                     100% 72.7M=0s
+
+2015-02-08 11:22:59 (72.7 MB/s) - ‘www.institutojunin.com.ar/public_html/image/fondo-paso-1.gif’ saved [1124/1124]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/image/fondo-paso-2.gif
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1126 (1.1K) [image/gif]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/fondo-paso-2.gif’
+
+     0K .                                                     100% 79.8M=0s
+
+2015-02-08 11:22:59 (79.8 MB/s) - ‘www.institutojunin.com.ar/public_html/image/fondo-paso-2.gif’ saved [1126/1126]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/image/fondo-paso-3.gif
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1126 (1.1K) [image/gif]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/fondo-paso-3.gif’
+
+     0K .                                                     100% 53.8M=0s
+
+2015-02-08 11:22:59 (53.8 MB/s) - ‘www.institutojunin.com.ar/public_html/image/fondo-paso-3.gif’ saved [1126/1126]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/image/fondo-paso-4.gif
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1116 (1.1K) [image/gif]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/fondo-paso-4.gif’
+
+     0K .                                                     100% 89.5M=0s
+
+2015-02-08 11:22:59 (89.5 MB/s) - ‘www.institutojunin.com.ar/public_html/image/fondo-paso-4.gif’ saved [1116/1116]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/image/fondo-paso-5.gif
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1114 (1.1K) [image/gif]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/fondo-paso-5.gif’
+
+     0K .                                                     100% 55.4M=0s
+
+2015-02-08 11:22:59 (55.4 MB/s) - ‘www.institutojunin.com.ar/public_html/image/fondo-paso-5.gif’ saved [1114/1114]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/image/round-before.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 444 [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/round-before.png’
+
+     0K                                                       100% 38.7M=0s
+
+2015-02-08 11:22:59 (38.7 MB/s) - ‘www.institutojunin.com.ar/public_html/image/round-before.png’ saved [444/444]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/image/horarios-1.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 969 [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/horarios-1.png’
+
+     0K                                                       100% 72.3M=0s
+
+2015-02-08 11:22:59 (72.3 MB/s) - ‘www.institutojunin.com.ar/public_html/image/horarios-1.png’ saved [969/969]
+
+--2015-02-08 11:22:59--  http://www.institutojunin.com.ar/public%5Fhtml/image/aranceles-2.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 903 [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/aranceles-2.png’
+
+     0K                                                       100% 73.6M=0s
+
+2015-02-08 11:23:00 (73.6 MB/s) - ‘www.institutojunin.com.ar/public_html/image/aranceles-2.png’ saved [903/903]
+
+--2015-02-08 11:23:00--  http://www.institutojunin.com.ar/public%5Fhtml/image/bg-form.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 954 [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/bg-form.png’
+
+     0K                                                       100% 67.8M=0s
+
+2015-02-08 11:23:00 (67.8 MB/s) - ‘www.institutojunin.com.ar/public_html/image/bg-form.png’ saved [954/954]
+
+--2015-02-08 11:23:00--  http://www.institutojunin.com.ar/public%5Fhtml/image/round-hover.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 478 [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/round-hover.png’
+
+     0K                                                       100% 40.8M=0s
+
+2015-02-08 11:23:00 (40.8 MB/s) - ‘www.institutojunin.com.ar/public_html/image/round-hover.png’ saved [478/478]
+
+--2015-02-08 11:23:00--  http://www.institutojunin.com.ar/public%5Fhtml/image/autoevaluate-1.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1054 (1.0K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/autoevaluate-1.png’
+
+     0K .                                                     100% 61.0M=0s
+
+2015-02-08 11:23:00 (61.0 MB/s) - ‘www.institutojunin.com.ar/public_html/image/autoevaluate-1.png’ saved [1054/1054]
+
+--2015-02-08 11:23:00--  http://www.institutojunin.com.ar/public%5Fhtml/image/autoevaluate-2.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1030 (1.0K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/autoevaluate-2.png’
+
+     0K .                                                     100% 58.7M=0s
+
+2015-02-08 11:23:00 (58.7 MB/s) - ‘www.institutojunin.com.ar/public_html/image/autoevaluate-2.png’ saved [1030/1030]
+
+--2015-02-08 11:23:00--  http://www.institutojunin.com.ar/public%5Fhtml/image/autoevaluate-3.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 991 [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/autoevaluate-3.png’
+
+     0K                                                       100% 53.2M=0s
+
+2015-02-08 11:23:00 (53.2 MB/s) - ‘www.institutojunin.com.ar/public_html/image/autoevaluate-3.png’ saved [991/991]
+
+--2015-02-08 11:23:00--  http://www.institutojunin.com.ar/public%5Fhtml/image/btnbg-green.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1228 (1.2K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/btnbg-green.png’
+
+     0K .                                                     100% 94.4M=0s
+
+2015-02-08 11:23:00 (94.4 MB/s) - ‘www.institutojunin.com.ar/public_html/image/btnbg-green.png’ saved [1228/1228]
+
+--2015-02-08 11:23:00--  http://www.institutojunin.com.ar/public%5Fhtml/image/btn-sedecentral.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2071 (2.0K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/btn-sedecentral.png’
+
+     0K ..                                                    100%  168M=0s
+
+2015-02-08 11:23:00 (168 MB/s) - ‘www.institutojunin.com.ar/public_html/image/btn-sedecentral.png’ saved [2071/2071]
+
+--2015-02-08 11:23:00--  http://www.institutojunin.com.ar/public%5Fhtml/image/btn-sededrago.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2201 (2.1K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/btn-sededrago.png’
+
+     0K ..                                                    100% 88.1M=0s
+
+2015-02-08 11:23:00 (88.1 MB/s) - ‘www.institutojunin.com.ar/public_html/image/btn-sededrago.png’ saved [2201/2201]
+
+--2015-02-08 11:23:00--  http://www.institutojunin.com.ar/public%5Fhtml/image/btn-sedeave.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2157 (2.1K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/btn-sedeave.png’
+
+     0K ..                                                    100%  149M=0s
+
+2015-02-08 11:23:00 (149 MB/s) - ‘www.institutojunin.com.ar/public_html/image/btn-sedeave.png’ saved [2157/2157]
+
+--2015-02-08 11:23:00--  http://www.institutojunin.com.ar/public%5Fhtml/image/btn-consultamail.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2749 (2.7K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/btn-consultamail.png’
+
+     0K ..                                                    100% 20.9M=0s
+
+2015-02-08 11:23:00 (20.9 MB/s) - ‘www.institutojunin.com.ar/public_html/image/btn-consultamail.png’ saved [2749/2749]
+
+--2015-02-08 11:23:00--  http://www.institutojunin.com.ar/public%5Fhtml/image/btn-cursos.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2370 (2.3K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/btn-cursos.png’
+
+     0K ..                                                    100%  186M=0s
+
+2015-02-08 11:23:00 (186 MB/s) - ‘www.institutojunin.com.ar/public_html/image/btn-cursos.png’ saved [2370/2370]
+
+--2015-02-08 11:23:00--  http://www.institutojunin.com.ar/public%5Fhtml/image/btn-tel.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2370 (2.3K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/btn-tel.png’
+
+     0K ..                                                    100%  167M=0s
+
+2015-02-08 11:23:00 (167 MB/s) - ‘www.institutojunin.com.ar/public_html/image/btn-tel.png’ saved [2370/2370]
+
+--2015-02-08 11:23:00--  http://www.institutojunin.com.ar/public%5Fhtml/image/btn-confirma.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2825 (2.8K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/btn-confirma.png’
+
+     0K ..                                                    100%  136M=0s
+
+2015-02-08 11:23:00 (136 MB/s) - ‘www.institutojunin.com.ar/public_html/image/btn-confirma.png’ saved [2825/2825]
+
+--2015-02-08 11:23:00--  http://www.institutojunin.com.ar/public%5Fhtml/image/btn-contact.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1995 (1.9K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/btn-contact.png’
+
+     0K .                                                     100%  102M=0s
+
+2015-02-08 11:23:00 (102 MB/s) - ‘www.institutojunin.com.ar/public_html/image/btn-contact.png’ saved [1995/1995]
+
+--2015-02-08 11:23:00--  http://www.institutojunin.com.ar/public%5Fhtml/image/btn-gosection.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3400 (3.3K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/btn-gosection.png’
+
+     0K ...                                                   100%  234M=0s
+
+2015-02-08 11:23:00 (234 MB/s) - ‘www.institutojunin.com.ar/public_html/image/btn-gosection.png’ saved [3400/3400]
+
+--2015-02-08 11:23:00--  http://www.institutojunin.com.ar/public%5Fhtml/image/btn-register.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1957 (1.9K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/btn-register.png’
+
+     0K .                                                     100% 96.6M=0s
+
+2015-02-08 11:23:00 (96.6 MB/s) - ‘www.institutojunin.com.ar/public_html/image/btn-register.png’ saved [1957/1957]
+
+--2015-02-08 11:23:00--  http://www.institutojunin.com.ar/public%5Fhtml/image/btn-enviar.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1790 (1.7K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/btn-enviar.png’
+
+     0K .                                                     100%  107M=0s
+
+2015-02-08 11:23:00 (107 MB/s) - ‘www.institutojunin.com.ar/public_html/image/btn-enviar.png’ saved [1790/1790]
+
+--2015-02-08 11:23:00--  http://www.institutojunin.com.ar/public%5Fhtml/image/btn-dialogo.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 560 [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/btn-dialogo.png’
+
+     0K                                                       100% 38.8M=0s
+
+2015-02-08 11:23:00 (38.8 MB/s) - ‘www.institutojunin.com.ar/public_html/image/btn-dialogo.png’ saved [560/560]
+
+--2015-02-08 11:23:00--  http://www.institutojunin.com.ar/public%5Fhtml/index.php
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 303 Undescribed
+Location: ?m=Publico&a=verHome [following]
+--2015-02-08 11:23:00--  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=verHome
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2015-02-08 11:23:01--  (try: 2)  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=verHome
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.php.html’
+
+     0K .......... .......... .........                         364K=0.08s
+
+2015-02-08 11:23:02 (364 KB/s) - ‘www.institutojunin.com.ar/public_html/index.php.html’ saved [29966]
+
+--2015-02-08 11:23:02--  http://www.institutojunin.com.ar/public_html/archivos/e33db130c7c5f2442057e551c842a06e.png
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3324 (3.2K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/e33db130c7c5f2442057e551c842a06e.png’
+
+     0K ...                                                   100%  117K=0.03s
+
+2015-02-08 11:23:02 (117 KB/s) - ‘www.institutojunin.com.ar/public_html/archivos/e33db130c7c5f2442057e551c842a06e.png’ saved [3324/3324]
+
+--2015-02-08 11:23:02--  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=doMenu&menu_codigo=CBC
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 303 Undescribed
+Location: ?m=Publico&a=cursosCBC&titulo=CBC [following]
+--2015-02-08 11:23:02--  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=cursosCBC&titulo=CBC
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2015-02-08 11:23:03--  (try: 2)  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=cursosCBC&titulo=CBC
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=CBC.html’
+
+     0K .......... .......... .......... .......                353K=0.1s
+
+2015-02-08 11:23:04 (353 KB/s) - ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=CBC.html’ saved [38561]
+
+--2015-02-08 11:23:04--  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=doMenu&menu_codigo=CICLO_GRAL
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 303 Undescribed
+Location: ?m=Publico&a=cursosCBC&titulo=Ciclo%20General [following]
+--2015-02-08 11:23:04--  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=cursosCBC&titulo=Ciclo%20General
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2015-02-08 11:23:05--  (try: 2)  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=cursosCBC&titulo=Ciclo%20General
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=CICLO_GRAL.html’
+
+     0K .......... .......... .......... .......                364K=0.1s
+
+2015-02-08 11:23:05 (364 KB/s) - ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=CICLO_GRAL.html’ saved [38571]
+
+--2015-02-08 11:23:05--  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=doMenu&menu_codigo=UBAXXI
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 303 Undescribed
+Location: ?m=Publico&a=cursosCBC&titulo=UBA%20XXI [following]
+--2015-02-08 11:23:05--  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=cursosCBC&titulo=UBA%20XXI
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2015-02-08 11:23:06--  (try: 2)  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=cursosCBC&titulo=UBA%20XXI
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=UBAXXI.html’
+
+     0K .......... .......... .......... .......                351K=0.1s
+
+2015-02-08 11:23:07 (351 KB/s) - ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=UBAXXI.html’ saved [38565]
+
+--2015-02-08 11:23:07--  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=doMenu&menu_codigo=APOYO_PRIV
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=APOYO_PRIV.html’
+
+     0K .......... .......... ........                          359K=0.08s
+
+2015-02-08 11:23:08 (359 KB/s) - ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=APOYO_PRIV.html’ saved [28720]
+
+--2015-02-08 11:23:08--  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=doMenu&menu_codigo=APOYO_SEC
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=APOYO_SEC.html’
+
+     0K .......... .......... ........                          355K=0.08s
+
+2015-02-08 11:23:08 (355 KB/s) - ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=APOYO_SEC.html’ saved [28711]
+
+--2015-02-08 11:23:08--  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=doMenu&menu_codigo=APOYO_EXT
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 303 Undescribed
+Location: ?m=Publico&a=cursosCBC&titulo=CBC - CICLO GENERAL - UBA XXI [following]
+--2015-02-08 11:23:08--  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=cursosCBC&titulo=CBC%20-%20CICLO%20GENERAL%20-%20UBA%20XXI
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2015-02-08 11:23:09--  (try: 2)  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=cursosCBC&titulo=CBC%20-%20CICLO%20GENERAL%20-%20UBA%20XXI
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=APOYO_EXT.html’
+
+     0K .......... .......... .......... .......                359K=0.1s
+
+2015-02-08 11:23:10 (359 KB/s) - ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=APOYO_EXT.html’ saved [38587]
+
+--2015-02-08 11:23:10--  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=nivelacionGratis
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=nivelacionGratis.html’
+
+     0K .......... .......... .......... .........              343K=0.1s
+
+2015-02-08 11:23:10 (343 KB/s) - ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=nivelacionGratis.html’ saved [39970]
+
+--2015-02-08 11:23:10--  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=doMenu&menu_codigo=HISTORIA
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=HISTORIA.html’
+
+     0K .......... .......... ......                            340K=0.08s
+
+2015-02-08 11:23:11 (340 KB/s) - ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=HISTORIA.html’ saved [27426]
+
+--2015-02-08 11:23:11--  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=doMenu&menu_codigo=SEDES
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=SEDES.html’
+
+     0K .......... .......... ......                            297K=0.09s
+
+2015-02-08 11:23:11 (297 KB/s) - ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=SEDES.html’ saved [27541]
+
+--2015-02-08 11:23:11--  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=doMenu&menu_codigo=CONTACTO
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 303 Undescribed
+Location: ?m=Publico&a=formContacto [following]
+--2015-02-08 11:23:11--  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=formContacto
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2015-02-08 11:23:12--  (try: 2)  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=formContacto
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=CONTACTO.html’
+
+     0K .......... .......... .......... ......                 347K=0.1s
+
+2015-02-08 11:23:13 (347 KB/s) - ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=CONTACTO.html’ saved [37321]
+
+--2015-02-08 11:23:13--  http://www.institutojunin.com.ar/public%5Fhtml/image/fb-logo.png
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 947 [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/fb-logo.png’
+
+     0K                                                       100% 70.0M=0s
+
+2015-02-08 11:23:13 (70.0 MB/s) - ‘www.institutojunin.com.ar/public_html/image/fb-logo.png’ saved [947/947]
+
+--2015-02-08 11:23:13--  http://www.institutojunin.com.ar/public%5Fhtml/image/tw-logo.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 937 [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/tw-logo.png’
+
+     0K                                                       100% 63.4M=0s
+
+2015-02-08 11:23:13 (63.4 MB/s) - ‘www.institutojunin.com.ar/public_html/image/tw-logo.png’ saved [937/937]
+
+--2015-02-08 11:23:13--  http://www.institutojunin.com.ar/public%5Fhtml/image/mail-logo.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 970 [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/image/mail-logo.png’
+
+     0K                                                       100% 67.7M=0s
+
+2015-02-08 11:23:13 (67.7 MB/s) - ‘www.institutojunin.com.ar/public_html/image/mail-logo.png’ saved [970/970]
+
+--2015-02-08 11:23:13--  http://www.institutojunin.com.ar/public_html/archivos/75b36de1c1b994e24c173826703570e0.jpg
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 24666 (24K) [image/jpeg]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/75b36de1c1b994e24c173826703570e0.jpg’
+
+     0K .......... .......... ....                            100%  415K=0.06s
+
+2015-02-08 11:23:13 (415 KB/s) - ‘www.institutojunin.com.ar/public_html/archivos/75b36de1c1b994e24c173826703570e0.jpg’ saved [24666/24666]
+
+--2015-02-08 11:23:13--  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=doMenu&menu_codigo=SECCION_FAQ
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=SECCION_FAQ.html’
+
+     0K .......... .......... .......... ..........             694K=0.06s
+
+2015-02-08 11:23:14 (694 KB/s) - ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=SECCION_FAQ.html’ saved [41011]
+
+--2015-02-08 11:23:14--  http://www.institutojunin.com.ar/public_html/archivos/0c27d694e02111609503e8c6794368e0.png
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5175 (5.1K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/0c27d694e02111609503e8c6794368e0.png’
+
+     0K .....                                                 100%  190K=0.03s
+
+2015-02-08 11:23:14 (190 KB/s) - ‘www.institutojunin.com.ar/public_html/archivos/0c27d694e02111609503e8c6794368e0.png’ saved [5175/5175]
+
+--2015-02-08 11:23:14--  http://www.institutojunin.com.ar/public_html/archivos/1deb6b69983e9d0c68c1d4a7b06efd82.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2859 (2.8K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/1deb6b69983e9d0c68c1d4a7b06efd82.png’
+
+     0K ..                                                    100%  160M=0s
+
+2015-02-08 11:23:14 (160 MB/s) - ‘www.institutojunin.com.ar/public_html/archivos/1deb6b69983e9d0c68c1d4a7b06efd82.png’ saved [2859/2859]
+
+--2015-02-08 11:23:14--  http://www.institutojunin.com.ar/public_html/archivos/2812889ade2d3b2a34fd20e239fa4313.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3340 (3.3K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/2812889ade2d3b2a34fd20e239fa4313.png’
+
+     0K ...                                                   100%  211M=0s
+
+2015-02-08 11:23:14 (211 MB/s) - ‘www.institutojunin.com.ar/public_html/archivos/2812889ade2d3b2a34fd20e239fa4313.png’ saved [3340/3340]
+
+--2015-02-08 11:23:14--  http://www.institutojunin.com.ar/public_html/archivos/19c22697c6e8ad23e1939ce5112b446b.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 69824 (68K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/19c22697c6e8ad23e1939ce5112b446b.png’
+
+     0K .......... .......... .......... .......... .......... 73%  583K 0s
+    50K .......... ........                                   100%  166M=0.09s
+
+2015-02-08 11:23:14 (794 KB/s) - ‘www.institutojunin.com.ar/public_html/archivos/19c22697c6e8ad23e1939ce5112b446b.png’ saved [69824/69824]
+
+--2015-02-08 11:23:14--  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=doMenu&menu_codigo=MENU_CAMPANIAS
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=MENU_CAMPANIAS.html’
+
+     0K .......... .......... .......                           754K=0.04s
+
+2015-02-08 11:23:15 (754 KB/s) - ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=MENU_CAMPANIAS.html’ saved [28539]
+
+--2015-02-08 11:23:15--  http://www.institutojunin.com.ar/public_html/archivos/737fa0359507eb6f9d390a024f982c81.png
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 11237 (11K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/737fa0359507eb6f9d390a024f982c81.png’
+
+     0K ..........                                            100%  202K=0.05s
+
+2015-02-08 11:23:15 (202 KB/s) - ‘www.institutojunin.com.ar/public_html/archivos/737fa0359507eb6f9d390a024f982c81.png’ saved [11237/11237]
+
+--2015-02-08 11:23:15--  http://www.institutojunin.com.ar/public_html/archivos/646e4d35c526a571df4367d57110ad8f.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 13199 (13K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/646e4d35c526a571df4367d57110ad8f.png’
+
+     0K .......... ..                                         100%  102M=0s
+
+2015-02-08 11:23:15 (102 MB/s) - ‘www.institutojunin.com.ar/public_html/archivos/646e4d35c526a571df4367d57110ad8f.png’ saved [13199/13199]
+
+--2015-02-08 11:23:15--  http://www.institutojunin.com.ar/public_html/archivos/8a4e9a5ce6ead33fbc3059c732bd6c08.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7324 (7.2K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/8a4e9a5ce6ead33fbc3059c732bd6c08.png’
+
+     0K .......                                               100% 2.93M=0.002s
+
+2015-02-08 11:23:15 (2.93 MB/s) - ‘www.institutojunin.com.ar/public_html/archivos/8a4e9a5ce6ead33fbc3059c732bd6c08.png’ saved [7324/7324]
+
+--2015-02-08 11:23:15--  http://www.institutojunin.com.ar/public_html/archivos/f85a8cb63c4d56ba5e061874b4384c58.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 24426 (24K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/f85a8cb63c4d56ba5e061874b4384c58.png’
+
+     0K .......... .......... ...                             100%  803K=0.03s
+
+2015-02-08 11:23:15 (803 KB/s) - ‘www.institutojunin.com.ar/public_html/archivos/f85a8cb63c4d56ba5e061874b4384c58.png’ saved [24426/24426]
+
+--2015-02-08 11:23:15--  http://www.institutojunin.com.ar/public_html/archivos/6a6c764f1bce24c40f4066714f9435e4.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 18190 (18K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/6a6c764f1bce24c40f4066714f9435e4.png’
+
+     0K .......... .......                                    100%  170M=0s
+
+2015-02-08 11:23:15 (170 MB/s) - ‘www.institutojunin.com.ar/public_html/archivos/6a6c764f1bce24c40f4066714f9435e4.png’ saved [18190/18190]
+
+--2015-02-08 11:23:15--  http://www.institutojunin.com.ar/public_html/archivos/5553965d33355e751e7d21894978f6f3.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 8118 (7.9K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/5553965d33355e751e7d21894978f6f3.png’
+
+     0K .......                                               100%  786M=0s
+
+2015-02-08 11:23:15 (786 MB/s) - ‘www.institutojunin.com.ar/public_html/archivos/5553965d33355e751e7d21894978f6f3.png’ saved [8118/8118]
+
+--2015-02-08 11:23:15--  http://www.institutojunin.com.ar/public_html/archivos/01f0d0fc7f59a757352ae42dd191f330.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 8673 (8.5K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/01f0d0fc7f59a757352ae42dd191f330.png’
+
+     0K ........                                              100% 88.2M=0s
+
+2015-02-08 11:23:15 (88.2 MB/s) - ‘www.institutojunin.com.ar/public_html/archivos/01f0d0fc7f59a757352ae42dd191f330.png’ saved [8673/8673]
+
+--2015-02-08 11:23:15--  http://www.institutojunin.com.ar/public_html/archivos/91ce6fc340610fba09646b6d586df133.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6971 (6.8K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/91ce6fc340610fba09646b6d586df133.png’
+
+     0K ......                                                100%  928M=0s
+
+2015-02-08 11:23:15 (928 MB/s) - ‘www.institutojunin.com.ar/public_html/archivos/91ce6fc340610fba09646b6d586df133.png’ saved [6971/6971]
+
+--2015-02-08 11:23:15--  http://www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/img/glyphicons-halflings.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12799 (12K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/img/glyphicons-halflings.png’
+
+     0K .......... ..                                         100%  151M=0s
+
+2015-02-08 11:23:15 (151 MB/s) - ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/img/glyphicons-halflings.png’ saved [12799/12799]
+
+--2015-02-08 11:23:15--  http://www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/img/glyphicons-halflings-white.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 8777 (8.6K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/img/glyphicons-halflings-white.png’
+
+     0K ........                                              100%  106M=0s
+
+2015-02-08 11:23:15 (106 MB/s) - ‘www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/img/glyphicons-halflings-white.png’ saved [8777/8777]
+
+--2015-02-08 11:23:15--  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=doMenu&menu_codigo=CBC
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 303 Undescribed
+Location: ?m=Publico&a=cursosCBC&titulo=CBC [following]
+--2015-02-08 11:23:15--  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=cursosCBC&titulo=CBC
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2015-02-08 11:23:16--  (try: 2)  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=cursosCBC&titulo=CBC
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=CBC.html’
+
+     0K .......... .......... .......... .......                345K=0.1s
+
+2015-02-08 11:23:17 (345 KB/s) - ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=CBC.html’ saved [38561]
+
+--2015-02-08 11:23:17--  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=doMenu&menu_codigo=CICLO_GRAL
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 303 Undescribed
+Location: ?m=Publico&a=cursosCBC&titulo=Ciclo%20General [following]
+--2015-02-08 11:23:17--  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=cursosCBC&titulo=Ciclo%20General
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2015-02-08 11:23:18--  (try: 2)  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=cursosCBC&titulo=Ciclo%20General
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=CICLO_GRAL.html’
+
+     0K .......... .......... .......... .......                353K=0.1s
+
+2015-02-08 11:23:19 (353 KB/s) - ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=CICLO_GRAL.html’ saved [38571]
+
+--2015-02-08 11:23:19--  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=doMenu&menu_codigo=UBAXXI
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 303 Undescribed
+Location: ?m=Publico&a=cursosCBC&titulo=UBA%20XXI [following]
+--2015-02-08 11:23:19--  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=cursosCBC&titulo=UBA%20XXI
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2015-02-08 11:23:20--  (try: 2)  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=cursosCBC&titulo=UBA%20XXI
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=UBAXXI.html’
+
+     0K .......... .......... .......... .......                360K=0.1s
+
+2015-02-08 11:23:21 (360 KB/s) - ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=UBAXXI.html’ saved [38565]
+
+--2015-02-08 11:23:21--  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=doMenu&menu_codigo=APOYO_PRIV
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=APOYO_PRIV.html’
+
+     0K .......... .......... ........                          357K=0.08s
+
+2015-02-08 11:23:21 (357 KB/s) - ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=APOYO_PRIV.html’ saved [28720]
+
+--2015-02-08 11:23:21--  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=doMenu&menu_codigo=APOYO_SEC
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=APOYO_SEC.html’
+
+     0K .......... .......... ........                          362K=0.08s
+
+2015-02-08 11:23:22 (362 KB/s) - ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=APOYO_SEC.html’ saved [28711]
+
+--2015-02-08 11:23:22--  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=doMenu&menu_codigo=APOYO_EXT
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 303 Undescribed
+Location: ?m=Publico&a=cursosCBC&titulo=CBC - CICLO GENERAL - UBA XXI [following]
+--2015-02-08 11:23:22--  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=cursosCBC&titulo=CBC%20-%20CICLO%20GENERAL%20-%20UBA%20XXI
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2015-02-08 11:23:23--  (try: 2)  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=cursosCBC&titulo=CBC%20-%20CICLO%20GENERAL%20-%20UBA%20XXI
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=APOYO_EXT.html’
+
+     0K .......... .......... .......... .......                333K=0.1s
+
+2015-02-08 11:23:24 (333 KB/s) - ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=APOYO_EXT.html’ saved [38587]
+
+--2015-02-08 11:23:24--  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=nivelacionGratis
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=nivelacionGratis.html’
+
+     0K .......... .......... .......... .........              355K=0.1s
+
+2015-02-08 11:23:24 (355 KB/s) - ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=nivelacionGratis.html’ saved [39970]
+
+--2015-02-08 11:23:24--  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=doMenu&menu_codigo=HISTORIA
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=HISTORIA.html’
+
+     0K .......... .......... ......                            290K=0.09s
+
+2015-02-08 11:23:25 (290 KB/s) - ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=HISTORIA.html’ saved [27426]
+
+--2015-02-08 11:23:25--  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=doMenu&menu_codigo=SEDES
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=SEDES.html’
+
+     0K .......... .......... ......                            325K=0.08s
+
+2015-02-08 11:23:25 (325 KB/s) - ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=SEDES.html’ saved [27541]
+
+--2015-02-08 11:23:25--  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=doMenu&menu_codigo=CONTACTO
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 303 Undescribed
+Location: ?m=Publico&a=formContacto [following]
+--2015-02-08 11:23:26--  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=formContacto
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2015-02-08 11:23:27--  (try: 2)  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=formContacto
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=CONTACTO.html’
+
+     0K .......... .......... .......... ......                 312K=0.1s
+
+2015-02-08 11:23:27 (312 KB/s) - ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=CONTACTO.html’ saved [37321]
+
+--2015-02-08 11:23:27--  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=doMenu&menu_codigo=SECCION_FAQ
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=SECCION_FAQ.html’
+
+     0K .......... .......... .......... ..........             377K=0.1s
+
+2015-02-08 11:23:28 (377 KB/s) - ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=SECCION_FAQ.html’ saved [41011]
+
+--2015-02-08 11:23:28--  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=doMenu&menu_codigo=MENU_CAMPANIAS
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=MENU_CAMPANIAS.html’
+
+     0K .......... .......... .......                           356K=0.08s
+
+2015-02-08 11:23:28 (356 KB/s) - ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=MENU_CAMPANIAS.html’ saved [28539]
+
+--2015-02-08 11:23:28--  http://www.institutojunin.com.ar/public_html/archivos/135ee86b46f3a5068e71b131ee346924.png
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 107735 (105K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/135ee86b46f3a5068e71b131ee346924.png’
+
+     0K .......... .......... .......... .......... .......... 47%  470K 0s
+    50K .......... .......... .......... .......... .......... 95%  941K 0s
+   100K .....                                                 100% 40.8M=0.2s
+
+2015-02-08 11:23:28 (659 KB/s) - ‘www.institutojunin.com.ar/public_html/archivos/135ee86b46f3a5068e71b131ee346924.png’ saved [107735/107735]
+
+--2015-02-08 11:23:28--  http://www.institutojunin.com.ar/public_html/archivos/316de99e38ec96410b421e2886816567.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 21392 (21K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/316de99e38ec96410b421e2886816567.png’
+
+     0K .......... ..........                                 100%  139M=0s
+
+2015-02-08 11:23:28 (139 MB/s) - ‘www.institutojunin.com.ar/public_html/archivos/316de99e38ec96410b421e2886816567.png’ saved [21392/21392]
+
+--2015-02-08 11:23:28--  http://www.institutojunin.com.ar/public_html/archivos/c73804bf600b106e8018f1baa750adc2.jpg
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 31648 (31K) [image/jpeg]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/c73804bf600b106e8018f1baa750adc2.jpg’
+
+     0K .......... .......... ..........                      100% 49.6M=0.001s
+
+2015-02-08 11:23:28 (49.6 MB/s) - ‘www.institutojunin.com.ar/public_html/archivos/c73804bf600b106e8018f1baa750adc2.jpg’ saved [31648/31648]
+
+--2015-02-08 11:23:28--  http://www.institutojunin.com.ar/public_html/archivos/e18eb561a67e616678a825ea0bd4efd8.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 91624 (89K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/e18eb561a67e616678a825ea0bd4efd8.png’
+
+     0K .......... .......... .......... .......... .......... 55%  115M 0s
+    50K .......... .......... .......... .........            100% 1.45M=0.03s
+
+2015-02-08 11:23:28 (3.23 MB/s) - ‘www.institutojunin.com.ar/public_html/archivos/e18eb561a67e616678a825ea0bd4efd8.png’ saved [91624/91624]
+
+--2015-02-08 11:23:28--  http://www.institutojunin.com.ar/public_html/archivos/2ad9fde7fa664dbd92d037b65be77702.jpg
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 30199 (29K) [image/jpeg]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/2ad9fde7fa664dbd92d037b65be77702.jpg’
+
+     0K .......... .......... .........                       100% 55.3M=0.001s
+
+2015-02-08 11:23:28 (55.3 MB/s) - ‘www.institutojunin.com.ar/public_html/archivos/2ad9fde7fa664dbd92d037b65be77702.jpg’ saved [30199/30199]
+
+--2015-02-08 11:23:28--  http://www.institutojunin.com.ar/public%5Fhtml/?m=Publico&a=cursosCBC&titulo=CBC%20-%20CICLO%20GENERAL%20-%20UBA%20XXI
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=cursosCBC&titulo=CBC%20-%20CICLO%20GENERAL%20-%20UBA%20XXI.html’
+
+     0K .......... .......... .......... .......                108M=0s
+
+2015-02-08 11:23:29 (108 MB/s) - ‘www.institutojunin.com.ar/public_html/index.html?m=Publico&a=cursosCBC&titulo=CBC%20-%20CICLO%20GENERAL%20-%20UBA%20XXI.html’ saved [38587]
+
+--2015-02-08 11:23:29--  http://www.institutojunin.com.ar/public_html/archivos/cfc70184cb857478984a7a12809ef6ba.png
+Connecting to www.institutojunin.com.ar (www.institutojunin.com.ar)|66.219.25.200|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7299 (7.1K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/cfc70184cb857478984a7a12809ef6ba.png’
+
+     0K .......                                               100%  254K=0.03s
+
+2015-02-08 11:23:29 (254 KB/s) - ‘www.institutojunin.com.ar/public_html/archivos/cfc70184cb857478984a7a12809ef6ba.png’ saved [7299/7299]
+
+--2015-02-08 11:23:29--  http://www.institutojunin.com.ar/public_html/archivos/be4c8b7312030db38e04d1975075fdac.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7521 (7.3K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/be4c8b7312030db38e04d1975075fdac.png’
+
+     0K .......                                               100%  465M=0s
+
+2015-02-08 11:23:29 (465 MB/s) - ‘www.institutojunin.com.ar/public_html/archivos/be4c8b7312030db38e04d1975075fdac.png’ saved [7521/7521]
+
+--2015-02-08 11:23:29--  http://www.institutojunin.com.ar/public_html/archivos/16eb41beed5eb2444849db9bab2cee67.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 9174 (9.0K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/16eb41beed5eb2444849db9bab2cee67.png’
+
+     0K ........                                              100% 49.2M=0s
+
+2015-02-08 11:23:29 (49.2 MB/s) - ‘www.institutojunin.com.ar/public_html/archivos/16eb41beed5eb2444849db9bab2cee67.png’ saved [9174/9174]
+
+--2015-02-08 11:23:29--  http://www.institutojunin.com.ar/public_html/archivos/1e7c83b0d3f6649e0b56bb687ff9b3b1.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 59907 (59K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/1e7c83b0d3f6649e0b56bb687ff9b3b1.png’
+
+     0K .......... .......... .......... .......... .......... 85%  629K 0s
+    50K ........                                              100% 32.6M=0.08s
+
+2015-02-08 11:23:29 (733 KB/s) - ‘www.institutojunin.com.ar/public_html/archivos/1e7c83b0d3f6649e0b56bb687ff9b3b1.png’ saved [59907/59907]
+
+--2015-02-08 11:23:29--  http://www.institutojunin.com.ar/public_html/archivos/b668f0d5c9a2e716e6d312b1e9bf4bbe.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 41808 (41K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/b668f0d5c9a2e716e6d312b1e9bf4bbe.png’
+
+     0K .......... .......... .......... ..........           100% 1.48M=0.03s
+
+2015-02-08 11:23:29 (1.48 MB/s) - ‘www.institutojunin.com.ar/public_html/archivos/b668f0d5c9a2e716e6d312b1e9bf4bbe.png’ saved [41808/41808]
+
+--2015-02-08 11:23:29--  http://www.institutojunin.com.ar/public_html/archivos/ae994798086a18d2cbbd1be47e0819c7.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 13446 (13K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/ae994798086a18d2cbbd1be47e0819c7.png’
+
+     0K .......... ...                                        100% 55.1M=0s
+
+2015-02-08 11:23:29 (55.1 MB/s) - ‘www.institutojunin.com.ar/public_html/archivos/ae994798086a18d2cbbd1be47e0819c7.png’ saved [13446/13446]
+
+--2015-02-08 11:23:29--  http://www.institutojunin.com.ar/public_html/archivos/468036b338875f425776c71715f621ce.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 11841 (12K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/468036b338875f425776c71715f621ce.png’
+
+     0K .......... .                                          100% 54.0M=0s
+
+2015-02-08 11:23:29 (54.0 MB/s) - ‘www.institutojunin.com.ar/public_html/archivos/468036b338875f425776c71715f621ce.png’ saved [11841/11841]
+
+--2015-02-08 11:23:29--  http://www.institutojunin.com.ar/public_html/archivos/23d9f6cb9d576fbb0e0c3d753e8314ca.png
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7019 (6.9K) [image/png]
+Saving to: ‘www.institutojunin.com.ar/public_html/archivos/23d9f6cb9d576fbb0e0c3d753e8314ca.png’
+
+     0K ......                                                100%  376M=0s
+
+2015-02-08 11:23:29 (376 MB/s) - ‘www.institutojunin.com.ar/public_html/archivos/23d9f6cb9d576fbb0e0c3d753e8314ca.png’ saved [7019/7019]
+
+--2015-02-08 11:23:29--  http://www.institutojunin.com.ar/public%5Fhtml/index.php?m=Publico&a=cursosCBC&titulo=CBC%20-%20CICLO%20GENERAL%20-%20UBA%20XXI
+Reusing existing connection to www.institutojunin.com.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=cursosCBC&titulo=CBC%20-%20CICLO%20GENERAL%20-%20UBA%20XXI.html’
+
+     0K .......... .......... .......... .......               1.35M=0.03s
+
+2015-02-08 11:23:30 (1.35 MB/s) - ‘www.institutojunin.com.ar/public_html/index.php?m=Publico&a=cursosCBC&titulo=CBC%20-%20CICLO%20GENERAL%20-%20UBA%20XXI.html’ saved [38587]
+
+FINISHED --2015-02-08 11:23:30--
+Total wall clock time: 33s
+Downloaded: 111 files, 2.3M in 3.3s (712 KB/s)
+Converting www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=APOYO_PRIV.html... 72-1
+Converting www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=SEDES.html... 71-1
+Converting www.institutojunin.com.ar/public_html/index.php?m=Publico&a=cursosCBC&titulo=CBC%20-%20CICLO%20GENERAL%20-%20UBA%20XXI.html... 75-1
+Converting www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=HISTORIA.html... 72-1
+Converting www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=APOYO_PRIV.html... 72-1
+Converting www.institutojunin.com.ar/public_html/index.html?m=Publico&a=nivelacionGratis.html... 70-1
+Converting www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=SEDES.html... 71-1
+Converting www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=SECCION_FAQ.html... 82-1
+Converting www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=MENU_CAMPANIAS.html... 88-1
+Converting www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=CBC.html... 75-1
+Converting www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=CONTACTO.html... 72-1
+Converting www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=CICLO_GRAL.html... 75-1
+Converting www.institutojunin.com.ar/index.html... 97-1
+Converting www.institutojunin.com.ar/public_html/index.html?m=Publico&a=cursosCBC&titulo=CBC%20-%20CICLO%20GENERAL%20-%20UBA%20XXI.html... 75-1
+Converting www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=APOYO_SEC.html... 72-1
+Converting www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=CICLO_GRAL.html... 75-1
+Converting www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=APOYO_SEC.html... 72-1
+Converting www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=SECCION_FAQ.html... 82-1
+Converting www.institutojunin.com.ar/public_html/index.php?m=Publico&a=nivelacionGratis.html... 70-1
+Converting www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=UBAXXI.html... 75-1
+Converting www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=APOYO_EXT.html... 75-1
+Converting www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=APOYO_EXT.html... 75-1
+Converting www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=HISTORIA.html... 72-1
+Converting www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=UBAXXI.html... 75-1
+Converting www.institutojunin.com.ar/public_html/index.php.html... 97-1
+Converting www.institutojunin.com.ar/public_html/index.html?m=Publico&a=doMenu&menu_codigo=MENU_CAMPANIAS.html... 88-1
+Converting www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=CBC.html... 75-1
+Converting www.institutojunin.com.ar/public_html/index.php?m=Publico&a=doMenu&menu_codigo=CONTACTO.html... 72-1
+Converting www.institutojunin.com.ar/public_html/zulky/lib/bootstrap/css/bootstrap.min.css... 2-0
+Converted 29 files in 0.07 seconds.

@@ -1,0 +1,1260 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<title>Instituto Junín ¡Es aprobar!</title>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="Generated-By" content="Zulky" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="expires" content="-1" />
+    <link rel="icon" href="http://www.institutojunin.com/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="http://www.institutojunin.com/favicon.ico" type="image/x-icon"> 
+	    <link rel="shortcut icon" href="http://www.institutojunin.com.ar/public%5Fhtml/img/favicon.ico">
+    <script src="public_html/zulky/lib/jquery/jquery-1.8.1.min.js"></script>
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="zulky/lib/html5shim/html5shiv.js"></script>
+    <![endif]-->
+    <!-- Le fav and touch icons -->
+    <script src="public_html/zulky/lib/bootstrap/js/bootstrap-transition.js"></script>
+    <script src="public_html/zulky/lib/bootstrap/js/bootstrap-alert.js"></script>
+    <script src="public_html/zulky/lib/bootstrap/js/bootstrap-modal.js"></script>
+    <script src="public_html/zulky/lib/bootstrap/js/bootstrap-dropdown.js"></script>
+    <script src="public_html/zulky/lib/bootstrap/js/bootstrap-tab.js"></script>
+    <script src="public_html/zulky/lib/bootstrap/js/bootstrap-tooltip.js"></script>
+    <script src="public_html/zulky/lib/bootstrap/js/bootstrap-popover.js"></script>
+    <script src="public_html/zulky/lib/bootstrap/js/bootstrap-button.js"></script>
+    <script src="public_html/zulky/lib/bootstrap/js/bootstrap-collapse.js"></script>
+    <script src="public_html/zulky/lib/bootstrap/js/bootstrap-carousel.js"></script>
+    <script src="public_html/zulky/lib/bootstrap/js/bootstrap-typeahead.js"></script>
+    	<script src="public_html/zulky/js/zulky_jquery.js" type="text/javascript"></script>
+	<script src="public_html/js/script.js" type="text/javascript"></script>
+    	<link href="public_html/zulky/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="divCargando" style="display:none">Por favor, espere...</div>
+<form name="form" id="form" action="public_html/index.php.html" enctype="multipart/form-data" method="post">
+<style>
+@font-face {
+    font-family: vagrounded;
+	font-weight: normal;
+    font-style: normal;
+    src: url('public_html/fonts/vagrounded-thin.eot');
+    src: url('public_html/fonts/vagrounded-thin.eot%3F') format('embedded-opentype'),
+         url('public_html/fonts/vagrounded-thin.woff') format('woff'),
+         url('public_html/fonts/vagrounded-thin.ttf') format('truetype'),
+         url('public_html/fonts/vagrounded-thin.svg') format('svg');
+}
+
+@font-face {
+	font-family: vagrounded;
+	font-weight: bold;
+    font-style: normal;
+    src: url('public_html/fonts/vagrounded-bold.eot');
+    src: url('public_html/fonts/vagrounded-bold.eot%3F') format('embedded-opentype'),
+         url('public_html/fonts/vagrounded-bold.woff') format('woff'),
+         url('public_html/fonts/vagrounded-bold.ttf') format('truetype'),
+         url('public_html/fonts/vagrounded-bold.svg') format('svg');
+}
+
+.clear {
+    float: left;
+    clear: both;
+}
+
+body {
+    background-color: #e9f4ff;
+    font-family: 'VAG Rounded Std', 'vagrounded';
+    color: #003866;
+}
+
+#divCargando {
+    position: fixed;
+	top: 0px;
+	right: 45%;
+	background: #213346;
+	color: #f5f5f5;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+	font-weight: bold;
+	padding: 5px;
+	z-index: 5000;
+}
+
+.menu-nav {
+    background-color: white;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 10px;
+    border-bottom-right-radius: 10px;
+    line-height: normal;
+    clear: both;
+    float: left;
+}
+
+.menu-nav .data {
+    font-weight: bold;
+    text-align: center;
+}
+
+.menu-nav .data a {
+    display: block;
+    width: 190px;
+    height: 96px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 13px;
+}
+
+.menu-nav .sublogo {
+    font-size: 12px;
+    text-align: left;
+}
+
+.menu-nav ul,
+.menu-nav ol {
+    margin: 0;
+    list-style-type: none;
+    padding: 0;
+}
+
+.menu-nav li {
+    display: inline-block;
+}
+
+nav.secciones {
+    background-color: #0f0;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    padding: 5px;
+    color: white;
+    font-size: 20px;
+}
+
+nav.secciones a {
+    color: white;
+    display: block;
+    font-weight: bold;
+    line-height: 35px;
+    list-style-type: none;
+    padding-left: 10px;
+}
+
+nav.subsecciones {
+    display: block;
+    margin-top: 15px;
+}
+
+nav.subsecciones a {
+    color: #003866;
+    font-weight: bold;
+}
+
+.infoInscripcion {
+    color: #666;
+    font-family: "Calibri", "Helvetica";
+    font-size: 12px;
+    margin-top: 15px;
+}
+
+.socialJunin {
+    margin: 14px 0;
+}
+
+.socialJunin a {
+    margin-right: 10px;
+}
+
+#slider1 {
+    margin-top: 10px;
+    padding-left: 10px;
+    background-color: white;
+    border-radius: 10px;
+    height: 440px;
+    padding-top: 20px;
+}
+
+.banner {
+    height: 165px;
+    margin-top: 13px;
+}
+
+.dialogo h3 {
+    color: #d42f40;
+    font-weight: normal;
+    line-height: 32.3px;
+}
+
+.cursosCbc {
+    margin-top: 10px;
+}
+
+.cursosCbc h3 {
+    color: #003866;
+    font-size: 18px;
+    margin: 0px;
+    line-height: 19px;
+}
+
+.cursosCbc ul {
+    margin: 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #888;
+    padding: 0;
+    padding-left: 14px;
+}
+
+.cursosCbc ul li {
+    padding: 0;
+    margin: 0;
+    line-height: 18px !important;
+}
+
+.banner.latin h4 {
+    color: #c00;
+    font-style: italic;
+}
+
+
+/*
+    cbc
+*/
+
+.message-box {
+    margin-left: 200px;
+    position: absolute;
+    top: 310px;
+    width: 320px;
+}
+
+.message-box p {
+    line-height: 20px;
+    margin-bottom: 15px;
+}
+
+.message-box.about {
+    top: 200px;
+}
+
+.message-box.confirma {
+    top: 285px;
+}
+
+.message-box h3 {
+    color: #003866;
+    border-bottom: 1px solid #003866;
+    line-height: 24px;
+    margin-bottom: 10px;
+    width: 95%;
+}
+
+.box-image {
+    position: relative;
+}
+
+ul.proInstituto li {
+    display: inline-block;
+    float: left;
+    margin: 10px 10px 0;
+}
+
+/*
+    planes
+*/
+
+.sectionPlanes select {
+    width: auto;
+}
+
+span.bg {
+    border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    color: #fff;
+    padding: 2px 5px;
+}
+
+.bg.darkblue {
+    background-color: #003866;
+}
+
+.bg.blue {
+    background-color: #0045b9;
+}
+
+.bg.lightblue {
+    background-color: #498fff;
+}
+
+.bg.water {
+    background-color: #00aeb9;
+}
+
+.sectionPlanes section {
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    padding: 0 10px 10px 10px;
+    background-color: white;
+    background-repeat: repeat-x;
+}
+
+.sectionPlanes section.step1 {
+    background-image: url('public_html/image/fondo-paso-1.gif');
+}
+
+.sectionPlanes section.step2 {
+    background-image: url('public_html/image/fondo-paso-2.gif');
+}
+
+.sectionPlanes section.step3 {
+    background-image: url('public_html/image/fondo-paso-3.gif');
+}
+
+.sectionPlanes section.step4 {
+    background-image: url('public_html/image/fondo-paso-4.gif');
+}
+
+.sectionPlanes section.step5 {
+    background-image: url('public_html/image/fondo-paso-5.gif');
+}
+
+.sectionPlanes ul {
+    margin-left: 13px;
+}
+
+.sectionPlanes ul li,
+.box-form ul li {
+    list-style-image: url('public_html/image/round-before.png');
+}
+
+/*
+.sectionPlanes ul li:hover,
+.box-form ul li:hover {
+    color: #40c1f3;
+    list-style-image: url('image/round-hover.png');
+}
+*/
+
+.sectionPlanes section h4 {
+    color: #fff;
+    height: 30px;
+    margin-left: -11px;
+    padding-left: 15px;
+    padding-top: 10px;
+    position: relative;
+}
+
+/*
+section h4 .nroSelect {
+    margin-left: 10px;
+}
+*/
+
+h5 span {
+    color: #498FFF;
+}
+
+.span6.sectionPlanes {
+    width: 349px;
+}
+
+li.complete {
+    color: #00ca82;
+    list-style-image: none !important;
+}
+
+span.status.complete {
+    color: #888;
+}
+
+h4.bg-lightwater {
+    background-image: url('public_html/image/horarios-1.png');
+    width: 340px !important;
+    z-index: 2;
+}
+
+h4.bg-green {
+    background-image: url('public_html/image/aranceles-2.png');
+    width: 340px !important;
+    z-index: 1;
+}
+
+/*
+    form
+*/
+
+.legend {
+    margin: 20px 0;
+    line-height: 10px;
+}
+
+.form-contact {
+    padding: 10px;
+}
+
+.form-contact label,
+.form-confirm label {
+    color: #888;
+    display: inline-block;
+    width: 49.5%
+}
+
+.form-contact input[type="text"],
+.form-confirm input[type="text"],
+.form-contact input[type="email"],
+.form-confirm input[type="email"],
+.form-contact input[type="tel"],
+.form-confirm input[type="tel"],
+.form-contact textarea {
+    border-radius: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    border: 2px solid #95ff95;
+    width: 320px;
+}
+
+.form-contact select {
+    background-color: #eee;
+    box-shadow: inset -3px -3px 3px #ccc;
+    -moz-box-shadow: inset -3px -3px 3px #ccc;
+    -webkit-box-shadow: inset -3px -3px 3px #ccc;
+    color: #999;
+    width: 330px;
+}
+
+.form-contact .allwidth,
+.form-confirm .allwidth {
+    width: 98.5%;
+}
+
+.form-contact .allwidth input[type="text"],
+.form-contact .allwidth textarea,
+.form-confirm .allwidth input[type="text"]{
+    width: 98.5%;
+}
+
+.form-contact .box-form {
+    background-color: #fff;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-box-shadow: 3px 3px 5px #ccc, -3px 3px 5px #ccc;
+    -webkit-box-shadow: 3px 3px 5px #ccc, -3px 3px -5px #ccc;
+    box-shadow: 3px 3px 15px #ccc, -3px 3px 15px #ccc;
+    height: 200px;
+    margin: 10px 0 15px 0;
+    
+}
+
+.box-form select {
+    margin: 9px 0 0 10px;;
+    width: 300px;
+}
+
+.box-form ul {
+    margin: 0 0 0 15px;
+}
+
+.box-form ul li {
+    line-height: 20px;
+    margin-left: 20px;
+}
+
+.box-form h4 {
+    background-color: #00AEB9;
+    border-top-right-radius: 10px;
+    -moz-border-top-right-radius: 10px;
+    -webkit-border-top-right-radius: 10px;
+    color: #fff;
+    height: 28px;
+    padding-left: 20px;
+    padding-top: 10px;
+    position: relative;
+    z-index: 1;
+}
+
+.box-form h4.bg-image {
+    background-image: url('public_html/image/bg-form.png');
+    border-top-left-radius: 10px;
+    -moz-border-top-left-radius: 10px;
+    -webkit-border-top-left-radius: 10px;
+    height: 28px;
+    width: 331px;
+    z-index: 2;
+}
+
+.carrito {
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    padding: 10px !important;
+    text-align: left !important;
+    background-color: white;
+}
+
+span.box-titulo {
+    display:block;
+    background-color: #00cc00;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    -moz-border-top-left-radius: 10px;
+    -moz-border-top-right-radius: 10px;
+    -webkit-border-top-left-radius: 10px;
+    -webkit-border-top-right-radius: 10px;
+    color: #fff;
+    margin-left: -10px;
+    margin-top: -10px;
+    padding: 10px;
+    font-size: 14px;
+    width: 100%;
+    text-align: left;
+}
+
+.carrito h6 {
+    color: #00cc00;
+}
+
+.carrito ul {
+    margin-left: 15px;
+}
+
+#cursos {
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    color: #666;
+    padding: 10px;
+}
+
+.preguntas {
+    border-bottom: 1px solid #ddd;
+    margin: 10px 0;
+}
+
+.preguntas:last-child {
+    border-bottom: none;
+}
+
+.preguntas ul li:last-child {
+    margin-bottom: 10px;
+}
+
+.preguntas .selected {
+    color: #40c1f3;
+}
+
+.preguntas.list-style ul li {
+    list-style-type: disc;
+}
+
+#consulta p, #consulta address p {
+    color: #003866;
+}
+
+/*
+    evualuate
+*/
+
+.div-evaluate {
+    display: inline-block;
+    float: left;
+    margin-bottom: 15px;
+    margin-left: 0 !important;
+    width: 232.6px;
+}
+
+.div-evaluate section {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    -moz-border-radius-bottomleft: 10px;
+    -moz-border-radius-bottomright: 10px;
+    -webkit-border-bottom-left-radius: 10px;
+    -webkit-border-bottom-right-radius: 10px;
+    box-shadow: 0 5px 5px #999;
+    height: 165px;
+    margin-top: -5px;
+    padding: 10px;
+}
+
+.div-evaluate ul {
+    margin-left: 15px;
+}
+.div-evaluate section ul li {
+    list-style-image: url('public_html/image/round-before.png');
+    line-height: 25px;
+}
+
+.div-evaluate section ul li:hover {
+    color: #40c1f3;
+    list-style-image: url('public_html/image/round-hover.png');
+}
+
+.div-evaluate h4 {
+    border-top-left-radius: 10px;
+    -moz-border-top-left-radius: 10px;
+    -webkit-border-top-left-radius: 10px;
+    color: #fff;
+    height: 25px;
+    margin-bottom: 0;
+    padding-left: 20px;
+    padding-top: 13px;
+    position: relative;
+    width: 228px;
+}
+
+.div-evaluate h4.cursos {
+    background-image: url('public_html/image/autoevaluate-1.png');
+    background-position: -13px 0;
+    z-index: 3;
+}
+
+.div-evaluate h4.materia {
+    background-image: url('public_html/image/autoevaluate-2.png');
+    background-position: -11px 0;
+    z-index: 2;
+}
+
+.div-evaluate h4.ejercicio {
+    background-image: url('public_html/image/autoevaluate-3.png');
+    background-position: -7px 0;
+    z-index: 2;
+}
+
+.box-question {
+    border-bottom: 1px solid #ddd;
+    margin: 8px 0 8px auto;
+}
+
+.box-question:last-child {
+    border-bottom: 0;
+}
+
+.box-question p.question {
+    color: #40c1f3;
+    margin-bottom: 0;
+}
+
+.box-question p.reply {
+    margin-top: -5px;
+}
+
+.box-question input[type="checkbox"] {
+    border: 2px solid #95FF95;
+}
+
+.box-question label {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.resp-preg {
+    margin: 8px 0;
+}
+
+.resp-preg p {
+    color: #40c1f3;
+    margin-bottom: 0;
+}
+
+.box-question h5.correct {
+    color: #00cc00;
+    margin-bottom: 0;
+}
+
+.box-question h5.wrong {
+    color: #0045B9;
+    margin-bottom: 0;
+}
+
+.box-question .result {
+    color: #666;
+}
+
+.resultAnswer p {
+    color: #666 !important;
+    font-size: 15px;
+    line-height: 15px;
+    margin-bottom: 0;
+    word-break: break-all;
+    width: 90%;
+}
+
+#horarios {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    -moz-border-top-left-radius: 10px;
+    -moz-border-top-right-radius: 10px;
+    -webkit-border-top-left-radius: 10px;
+    -webkit-border-top-right-radius: 10px;
+    padding: 10px;
+}
+
+#horarios h4 {
+    color: #fff;
+    background-color: #00AEB9;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    -moz-border-top-left-radius: 10px;
+    -moz-border-top-right-radius: 10px;
+    -webkit-border-top-left-radius: 10px;
+    -webkit-border-top-right-radius: 10px;
+    margin-left: -10px;
+    margin-top: -10px;
+    padding: 10px;
+    width: 100%;
+}
+
+
+
+/*
+    class
+*/
+
+hr {
+    margin: 10px 0;
+}
+
+h4, h5 {
+    color: #003866;
+    margin-bottom: 8px;
+}
+
+.box-blue {
+    background-color: #dee9f4;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    padding: 10px;
+}
+
+.box-blue p,
+.box-blue ul li {
+    color: #888;
+    line-height: 23px;
+}
+
+
+
+.map-sedes a,
+.group-link a {
+    display: inline-block;
+}
+
+.btn-green {
+    background-image: url('public_html/image/btnbg-green.png');
+    background-repeat: no-repeat;
+    color: #003866;
+    display: block;
+    padding: 4px 0 4px 9px;
+    width: 50px;
+}
+
+.btn-sedecentral {
+    background-image: url('public_html/image/btn-sedecentral.png');
+    background-repeat: no-repeat;
+    display: block;
+    height: 23px;
+    width: 98px;
+}
+
+.btn-sededrago {
+    background-image: url('public_html/image/btn-sededrago.png');
+    background-repeat: no-repeat;
+    display: block;
+    height: 23px;
+    width: 96px;
+}
+
+.btn-sedeave {
+    background-image: url('public_html/image/btn-sedeave.png');
+    background-repeat: no-repeat;
+    display: block;
+    height: 23px;
+    width: 119px;
+}
+
+.btn-consultamail {
+    background-image: url('public_html/image/btn-consultamail.png');
+    background-repeat: no-repeat;
+    display: block;
+    height: 29px;
+    width: 173px;
+}
+
+.btn-cursos {
+    background-image: url('public_html/image/btn-cursos.png');
+    background-repeat: no-repeat;
+    display: block;
+    height: 29px;
+    width: 121px;
+}
+
+.btn-tel {
+    background-image: url('public_html/image/btn-tel.png');
+    background-repeat: no-repeat;
+    display: block;
+    height: 29px;
+    width: 173px;
+}
+
+.btn-confirma {
+    background-image: url('public_html/image/btn-confirma.png');
+    background-repeat: no-repeat;
+    display: block;
+    height: 29px;
+    width: 170px;
+}
+
+.btn-contact {
+    background-image: url('public_html/image/btn-contact.png');
+    background-repeat: no-repeat;
+    display: block;
+    height: 29px;
+    width: 86px;
+}
+
+.btn-gosection {
+    background-image: url('public_html/image/btn-gosection.png');
+    background-repeat: no-repeat;
+    display: block;
+    height: 29px;
+    width: 254px;
+}
+
+.btn-register {
+    background-image: url('public_html/image/btn-register.png');
+    background-repeat: no-repeat;
+    display: block;
+    height: 29px;
+    width: 91px;
+}
+
+.btn-enviar {
+    background-image: url('public_html/image/btn-enviar.png');
+    background-repeat: no-repeat;
+    display: block;
+    height: 29px;
+    width: 65px;
+}
+
+.btn-dialog {
+    background-image: url('public_html/image/btn-dialogo.png');
+    background-repeat: no-repeat;
+    color: #fff;
+    display: block;
+    font-size: 12px;
+    float: right;
+    height: 38px;
+    margin-top: 5px;
+    padding-left: 5px;
+    padding-top: 4px;
+    width: 79px;
+}
+
+.btn-dialog:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+.btn-more {
+    color: #003866;
+}
+
+.btn-more:hover {
+    text-decoration: none;
+    color: #003866;
+}
+
+.btnbg-green {
+    background-color: #00FF00;
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: -3px -3px 3px #00B200 inset;
+    color: #003866;
+    font-weight: 500;
+    padding: 3px 7px;
+}
+
+.btn-green:hover,
+.btnbg-green:hover {
+    color: #003866;
+    text-decoration: none;
+}
+
+.box-shadow {
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    -moz-border-radius-bottomleft: 10px;
+    -moz-border-radius-bottomright: 10px;
+    -webkit-border-bottom-left-radius: 10px;
+    -webkit-border-bottom-right-radius: 10px;
+    border-bottom: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    color: #003866;
+    -moz-box-shadow: 3px 3px 5px #ccc, -3px 3px 5px #ccc;
+    -webkit-box-shadow: 3px 3px 5px #ccc, -3px 3px -5px #ccc;
+    box-shadow: 3px 3px 15px #ccc, -3px 3px 15px #ccc;
+    text-align: center;
+}
+
+.box-shadow-2 {
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    -moz-border-radius-bottomleft: 10px;
+    -moz-border-radius-bottomright: 10px;
+    -webkit-border-bottom-left-radius: 10px;
+    -webkit-border-bottom-right-radius: 10px;
+    -moz-box-shadow: 3px 3px 5px #ccc, -3px 3px 5px #ccc;
+    -webkit-box-shadow: 3px 3px 5px #ccc, -3px 3px -5px #ccc;
+    box-shadow: 3px 3px 15px #ccc, -3px 3px 15px #ccc;
+}
+
+.box-shadow-3 {
+    box-shadow: 0 5px 5px #999;
+}
+    
+
+.box-shadow a {
+    color: #003866;
+}
+
+.box-shadow a:hover {
+    color: inherit;
+    text-decoration: none;
+}
+
+/*
+    min-height: 24px;
+    padding-top: 5px;
+    padding-left: 5px;
+*/
+
+.box-shadow h1,
+.box-shadow h2,
+.box-shadow h3,
+.box-shadow h4,
+.box-shadow h5 {
+    margin: 0px;
+}
+
+.box-shadow.active {
+    background-color: white;
+}
+
+.box-shadow h3 {
+    font-size: 16px;
+}
+
+.box-shadow h4 {
+    font-size: 12px;
+}
+
+ul.list-nostyle,
+ol.list-nostyle {
+    margin: 0;
+    padding: 0;
+}
+
+ul.list-nostyle li,
+ol.list-nostyle li {
+    display: inline-block;
+    float: left;
+}
+
+.span1.set-width {
+    width: 57px;
+}
+
+.pull1 [class*="span"] {
+    margin-left: 2px;
+}
+
+h4.rounded {
+    border-top-left-radius: 10px;
+    -moz-border-top-left-radius: 10px;
+    -webkit-border-top-left-radius: 10px;
+}
+
+h4 small {
+    color: #fff;
+}
+
+#calesita_CALESITA_CAMPANIAS .carousel-control {
+    visibility: hidden;
+}
+
+.inscribirme {
+    background-image: url(public_html/image/btn-register.png);
+    margin: 0 auto;
+    display: block;
+    width: 91px;
+    height: 23px;
+    cursor: pointer;
+}
+
+/*
+    background-color: #0c0;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+*/
+
+.campanias{
+    background-color: white;
+    padding-top: 1px;
+}
+
+#divCalesitaCampanias {
+    width: 180px;
+    height: 132px;
+    padding: 0 3px 0 3px;
+    margin: 0 auto;
+}
+
+.tel-aprobar {
+    letter-spacing: 1px;    
+}
+
+.step1,
+.step2,
+.step3 {
+    min-height: 294px;
+}
+
+.banner.autoevaluate img {
+    margin-top: 10px;
+}
+
+.cuerpo,
+#ulMaterias {
+    font-size: 15px;
+}
+
+.nroSelect {
+    float: left;
+    margin-right: 10px;
+}
+
+#ulMaterias select {
+    width: 164px;
+}
+
+#pasoUBA .sectionPlanes .step3 #ulMaterias select 
+{
+    width: 400px;
+}
+
+.alri {
+    text-align: right !important;
+}
+
+.horariosAranceles {
+    margin-top: 15px;
+}
+
+.colorJunin {
+    color:rgb(0, 56, 102) !important;
+}
+
+.verdeJunin {
+    color: #69bd44 !important;
+}
+
+.carousel-control {
+    opacity: 0.1;
+}
+
+.contacto-gracias-contenido {
+    background-color: white;
+    border-radius: 15px;
+    height: 515px;
+    padding: 90px 90px 0 90px;
+    margin-top: 15px;
+    line-height: 25px;
+}
+
+.mp-ok 
+{
+    width: 250px;
+    margin-left: 130px;
+}
+
+#tblAranceles table tbody td
+{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#tblAranceles .item-descuentos
+{
+    font-size: 13px;
+}
+
+.leyendaPreInscribirme
+{
+    font-weight: bold;
+}
+
+.box-blue.banner.autoevaluate,
+.box-blue.banner.campanias
+{
+    height: 175px;
+    padding: 5px 10px 10px 10px;
+    box-sizing: border-box;
+}
+
+.carrito .box-titulo {
+    font-weight: bold;
+}
+
+.iso {
+    width: 100%;
+    padding-top: 30px;
+}
+
+.iso img {
+    max-width: 140px;
+    margin: 0 auto;
+    display: block;
+}
+
+#ulMaterias .iso {
+    padding-top: 40px;
+}
+
+#selloNivelacionGratis {
+    width: 80px;
+    height: 70px;
+    text-align: center;
+    font-weight: bold;
+    display: inline-table;
+}
+
+#selloNivelacionGratis span {
+    display: block;
+    padding-top: 15px;
+    position: relative;
+    top: -10px;
+}
+
+.nivelacionGratis h4.colorJunin {
+    font-weight: normal;
+    font-size: 1em;
+}
+
+.nivelacionGratis {
+    margin-top: 10px;
+}
+
+.nivelacionGratis label.control-label {
+    color: rgb( 0, 56, 102);
+    font-size: 14px;
+    font-weight: 700;
+}
+</style>
+<div class="container">
+    <div class="row">
+        <div class="span3"><div class="menu-nav">
+    <div class="data">
+        <a href="public_html/index.php.html"><img class="logoPrincipal" src="public_html/archivos/e33db130c7c5f2442057e551c842a06e.png" /></a>
+		<p class="tel-aprobar">0810 - APROBAR (3452776)</p>
+		<p class="sublogo">Fundado en 1976.<br />
+El primer instituto de apoyo.</p>
+	</div>
+    <nav class="secciones">
+    	<a href="public_html/index.html%3Fm=Publico&amp;a=doMenu&amp;menu_codigo=CBC.html">CBC</a>
+        <a href="public_html/index.html%3Fm=Publico&amp;a=doMenu&amp;menu_codigo=CICLO_GRAL.html">Ciclo General</a>
+        <a href="public_html/index.html%3Fm=Publico&amp;a=doMenu&amp;menu_codigo=UBAXXI.html">UBA XXI</a>
+        <a href="public_html/index.html%3Fm=Publico&amp;a=doMenu&amp;menu_codigo=APOYO_PRIV.html">Apoyo Privadas</a>
+        <a href="public_html/index.html%3Fm=Publico&amp;a=doMenu&amp;menu_codigo=APOYO_SEC.html">Apoyo Secundaria</a>
+        <a href="public_html/index.html%3Fm=Publico&amp;a=doMenu&amp;menu_codigo=APOYO_EXT.html">Apoyo Extranjeros</a>
+        <a href="public_html/index.html%3Fm=Publico&amp;a=nivelacionGratis.html">Nivelación Gratis</a>
+    </nav>
+	<nav class="subsecciones">
+		<a href="public_html/index.html%3Fm=Publico&amp;a=doMenu&amp;menu_codigo=HISTORIA.html">Historia</a> |
+		<a href="public_html/index.html%3Fm=Publico&amp;a=doMenu&amp;menu_codigo=SEDES.html">Sedes</a> |
+		<a href="public_html/index.html%3Fm=Publico&amp;a=doMenu&amp;menu_codigo=CONTACTO.html">Contacto</a>
+	</nav>
+	<div class="infoInscripcion"><p>
+	<strong>Horario de atenci&oacute;n:</strong><br />
+	Lunes a Viernes de 9 a 21 y<br />
+	S&aacute;bados de 9 a 15</p>
+<p>
+	<strong>Sede Central</strong><br />
+	Av. Santa Fe 1780 2&ordm; y 3&ordm; | 5254-0102<br />
+	<strong>Sede Drago</strong><br />
+	Holmberg 2621 | 4545-0182<br />
+	<strong>Sede Avellaneda</strong><br />
+	Eva Per&oacute;n 1219 | 4203-4019</p>
+<p>
+	<a href="mailto:info@institutojunin.com">info@institutojunin.com</a></p></div>
+	<div class="socialJunin">
+		<a href="http://www.facebook.com/instituto.junin" target="_blank"><img alt="facebook Instituto Junin" src="public_html/image/fb-logo.png" /></a>
+		<a href="http://twitter.com/Instituto_Junin" target="_blank"><img alt="twitter Instituto Junin" src="public_html/image/tw-logo.png" /></a>
+		<a href="public_html/index.html%3Fm=Publico&amp;a=doMenu&amp;menu_codigo=CONTACTO.html"><img alt="mail Instituto Junin" src="public_html/image/mail-logo.png" /></a>
+	</div>
+</div></div>
+        <div class="span9"><div class="row">
+    
+    <div class="span6">
+        <div id="slider1"><a rel="cargando" href="public_html/index.html%3Fm=Publico&amp;a=cursosCBC&amp;titulo=CBC%2520-%2520CICLO%2520GENERAL%2520-%2520UBA%2520XXI.html"><img src="public_html/archivos/75b36de1c1b994e24c173826703570e0.jpg" border="0" title="" alt="" /></a></div>
+    </div>
+
+    <div class="span3">
+        <div class="box-blue cursosCbc"><h3>
+	CBC - Nuestros Cursos Completos incluyen:</h3>
+<ul>
+	<li>
+		Nivelaci&oacute;n (optativa). <a class="btn-more" href="public_html/index.html%3Fm=Publico&amp;a=doMenu&amp;menu_codigo=SECCION_FAQ.html">Ver m&aacute;s</a></li>
+	<li>
+		La preparaci&oacute;n completa de toda la materia (En forma paralela al CBC) <a class="btn-more" href="public_html/index.html%3Fm=Publico&amp;a=doMenu&amp;menu_codigo=SECCION_FAQ.html">Ver m&aacute;s</a></li>
+	<li>
+		Pr&aacute;cticas con los &uacute;ltimos parciales tomados en el CBC&nbsp;<a class="btn-more" href="public_html/index.html%3Fm=Publico&amp;a=doMenu&amp;menu_codigo=SECCION_FAQ.html">Ver m&aacute;s</a></li>
+	<li>
+		Repetici&oacute;n de temas sin cargo.</li>
+	<li>
+		Final incluido. (En caso de no promocionar)</li>
+	<li>
+		Garant&iacute;a hasta aprobar. (&Uacute;nica inscripci&oacute;n hasta aprobar la materia)</li>
+</ul>
+<img src="public_html/archivos/0c27d694e02111609503e8c6794368e0.png" alt=""> <img src="public_html/archivos/1deb6b69983e9d0c68c1d4a7b06efd82.png" alt=""> <img src="public_html/archivos/2812889ade2d3b2a34fd20e239fa4313.png" alt="">
+<div id="selloNivelacionGratis" style="cursor:pointer;" onclick="zGet('Publico','nivelacionGratis')">
+	<span>&iexcl;Nivelaci&oacute;n Gratis!</span></div></div>
+    </div>
+    
+</div>
+
+<div class="row">
+    
+    <div class="span6">
+        <div class="box-blue"><a rel="cargando" href="http://institutojunin.com.ar/public_html/?m=Publico&a=nivelacionGratis"><img src="public_html/archivos/19c22697c6e8ad23e1939ce5112b446b.png" border="0" title="" alt="" /></a></div>
+    </div>
+    
+    <div class="span3">
+        <div class="box-blue banner campanias">
+            <h4>Campa&ntilde;as</h4>
+            <div id="divCalesitaCampanias"><div id="calesita_CALESITA_CAMPANIAS" class="carousel slide"><div class="carousel-inner"><div class="item active"><a rel="cargando" href="public_html/index.html%3Fm=Publico&amp;a=doMenu&amp;menu_codigo=MENU_CAMPANIAS.html"><img src="public_html/archivos/737fa0359507eb6f9d390a024f982c81.png" border="0" title="" alt="" /></a></div><div class="item"><a rel="cargando" href="public_html/index.html%3Fm=Publico&amp;a=doMenu&amp;menu_codigo=MENU_CAMPANIAS.html"><img src="public_html/archivos/646e4d35c526a571df4367d57110ad8f.png" border="0" title="" alt="" /></a></div><div class="item"><a rel="cargando" href="public_html/index.html%3Fm=Publico&amp;a=doMenu&amp;menu_codigo=MENU_CAMPANIAS.html"><img src="public_html/archivos/8a4e9a5ce6ead33fbc3059c732bd6c08.png" border="0" title="" alt="" /></a></div><div class="item"><a rel="cargando" href="public_html/index.html%3Fm=Publico&amp;a=doMenu&amp;menu_codigo=MENU_CAMPANIAS.html"><img src="public_html/archivos/f85a8cb63c4d56ba5e061874b4384c58.png" border="0" title="" alt="" /></a></div><div class="item"><a rel="cargando" href="public_html/index.html%3Fm=Publico&amp;a=doMenu&amp;menu_codigo=MENU_CAMPANIAS.html"><img src="public_html/archivos/6a6c764f1bce24c40f4066714f9435e4.png" border="0" title="" alt="" /></a></div><div class="item"><a rel="cargando" href="public_html/index.html%3Fm=Publico&amp;a=doMenu&amp;menu_codigo=MENU_CAMPANIAS.html"><img src="public_html/archivos/5553965d33355e751e7d21894978f6f3.png" border="0" title="" alt="" /></a></div><div class="item"><a rel="cargando" href="public_html/index.html%3Fm=Publico&amp;a=doMenu&amp;menu_codigo=MENU_CAMPANIAS.html"><img src="public_html/archivos/01f0d0fc7f59a757352ae42dd191f330.png" border="0" title="" alt="" /></a></div><div class="item"><a rel="cargando" href="public_html/index.html%3Fm=Publico&amp;a=doMenu&amp;menu_codigo=MENU_CAMPANIAS.html"><img src="public_html/archivos/91ce6fc340610fba09646b6d586df133.png" border="0" title="" alt="" /></a></div></div><a class="left carousel-control"  data-slide="prev" href="index.html#calesita_CALESITA_CAMPANIAS">&lsaquo;</a><a class="right carousel-control"  data-slide="next" href="index.html#calesita_CALESITA_CAMPANIAS">&rsaquo;</a></div><script>$('#calesita_CALESITA_CAMPANIAS').carousel({interval: 5000})</script></div>
+        </div>
+    </div>
+    
+</div></div>
+    </div>
+</div>
+<input id="m" type="hidden" name="m" value="Publico" />
+<input id="a" type="hidden" name="a" value="verHome" />
+<input id="postBack" type="hidden" name="postBack" value="" />
+<input id="usarFiltro" type="hidden" name="usarFiltro" value="" />
+<input id="usoBotones" type="hidden" name="usoBotones" value="0" />
+</form>
+</body>
+</html><!--
+Porciones de este sitio son accionadas por
+Zulky Framework para Desarrollo Empresarial
+Copyright (c) 2010 Ignacio Casinelli - www.cafebinario.com
+-->
